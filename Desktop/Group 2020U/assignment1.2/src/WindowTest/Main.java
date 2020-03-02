@@ -176,8 +176,7 @@ public class Main extends Application{
 			}
 
 			c[i][1]=mainY+y;
-			System.out.println(c[i][0]);
-			System.out.println(c[i][1]);
+
 		}
 	}
 	
