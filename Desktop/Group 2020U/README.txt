@@ -1,5 +1,5 @@
 CSCI2020U Assignment 1
-Members: Dennis ALfred de Leon, Andre Forbes
+Members: Dennis Alfred de Leon, Andre Forbes
 
 When downloading these files, create new projects and insert the main.java files
 
